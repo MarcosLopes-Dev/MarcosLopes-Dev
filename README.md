@@ -1,5 +1,5 @@
 
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" width=25% height=25% >
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" width=15% height=15% >
 
 - 👋 Hi, I’m @MarcosLopes-Dev
 - 👀 I’m interested in development, algorithms, books, games and movies.
